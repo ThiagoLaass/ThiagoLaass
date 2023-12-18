@@ -1,4 +1,4 @@
-<h1 align="left">Thiago Laass</h1>
+<h1 align="left"> Majoring Software engineering at PUC. A Physics enthusiast aswell.</h1>
 
 
 <div align="center">
