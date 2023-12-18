@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">Profile Visitors</p>
+<h3 align="left">Profile Visitors</h3>
 
 ###
 
