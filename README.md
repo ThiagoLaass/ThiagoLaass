@@ -1,26 +1,38 @@
-<h1 align="center">Hi 👋, I'm Laass</h1>
-<h3 align="center">Software engineering major at PUC. A Physics enthusiast aswell.</h3>
+<img width="100%" src="https://raw.githubusercontent.com/pmbechard/pmbechard/main/github_banner.png" alt="Peyton Bechard">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thiagolaass&label=Profile%20views&color=0e75b6&style=flat" alt="thiagolaass" /> </p>
+<br>
+<h2 align="center">About me</h2>
 
-- 🔭 I’m currently working on [Beyond Gravity Realm](https://github.com/ThiagoLaass/Beyond-Gravity-Realm.git)
+My name is Thiago Laass, majoring in Software Engenireeng at PUC.
 
-- 🌱 I’m currently learning **JAVA, Flutter**
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pmbechard&theme=blue-green">
+</div>
+<br>
 
-- 📫 How to reach me **thiagolaass202@gmail.com**
+- 🔭 I’m currently working on expanding my knowledge of JAVA.
+- 🌱 I’m currently learning Flutter and Dart.
 
-- ⚡ Fun fact **Never thought of coding in general before 2021**
+<br>
+<h2 align="center">Frequently Used Technologies</h2>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/thiago borges laass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thiago borges laass" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+<div align="center">
+    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>   <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thiagolaass&show_icons=true&locale=en&layout=compact" alt="thiagolaass" /></p>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmbechard&theme=blue-green">
+</div>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thiagolaass&show_icons=true&locale=en" alt="thiagolaass" /></p>
+  
+<br>
+<h2 align="center">Check out some of my recent projects:</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thiagolaass&" alt="thiagolaass" /></p>
+- A Web page showcasing some of the most important nobel prize winners: [The Nobel Laureates Spotlight](https://github.com/ThiagoLaass/Nobel-Laureates-Spotlight.git)
+- A Website about cosmology (still in development) [Beyond Gravity Realm](https://github.com/ThiagoLaass/Beyond-Gravity-Realm.git)
+
+<br>
