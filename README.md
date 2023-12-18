@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">Known technologies</h2>
+<h2 align="left">Known languages</h2>
 
 ###
 
