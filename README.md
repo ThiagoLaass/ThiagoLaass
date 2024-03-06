@@ -67,10 +67,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="github logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img height="" src="https://i.pinimg.com/originals/56/9a/d0/569ad00300afcd5deca66f79508f3e36.gif"  />
-</div>
 
 ###
