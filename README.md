@@ -78,10 +78,11 @@
 - 📢 Active participant in the Experimental Software Agency at Pontifícia Universidade Católica de Minas Gerais, gaining hands-on experience in real-world projects and teamwork.
 ---
 
----
 ### Projects 💻
 - [Windows Keylogger in C](https://github.com/ThiagoLaass/c_keylogger)
   - 📄 A lightweight keylogger written in C for Windows. Designed to capture keyboard inputs with minimal footprint. For educational purposes only.
+- [Memory handling simulator](https://github.com/ThiagoLaass/Memory_handling_simulator)
+  - 💾 Preemptive SJF Simulator: An advanced tool designed to demonstrate the inner workings of a CPU, RAM, and hard disk. This simulator highlights the dynamics of process scheduling using the Preemptive Shortest Job First (SJF) algorithm, offering an interactive and detailed visualization of system performance and resource management.
 
 ---
 ### 🚀 About Me
