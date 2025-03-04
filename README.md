@@ -81,7 +81,7 @@
 - 🎓 Engineering Student at PUC Minas with an interdisciplinary focus.
 - 🥇 Once recognized for excellence in interdisciplinary projects.
 - 🌟 Contributor to innovative projects using AI and cutting-edge technologies.
-- 📢 Active participant in the Experimental Software Agency at Pontifícia Universidade Católica de Minas Gerais, gaining hands-on experience in real-world projects and teamwork.
+- 📢 Team Manager and Active Participant at the Experimental Software Agency at Pontifícia Universidade Católica de Minas Gerais, gaining hands-on experience in real-world projects, team leadership, and collaborative work.
 ---
 
 ### Projects 💻
