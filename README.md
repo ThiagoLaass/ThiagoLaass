@@ -67,7 +67,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET" />
-    <img width="12" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
@@ -89,7 +89,10 @@
   - 📄 A lightweight keylogger written in C for Windows. Designed to capture keyboard inputs with minimal footprint. For educational purposes only.
 - [Memory handling simulator](https://github.com/ThiagoLaass/Memory_handling_simulator)
   - 💾 Preemptive SJF Simulator: An advanced tool designed to demonstrate the inner workings of a CPU, RAM, and hard disk. This simulator highlights the dynamics of process scheduling using the Preemptive Shortest Job First (SJF) algorithm, offering an interactive and detailed visualization of system performance and resource management.
-
+- [Sistema de Matriculas](https://github.com/LeandroNani/laboratorioDeSoftware)
+  - 📄 A system for managing student enrollments, implemented with ASP.NET and Next.js.
+- [CNH Manager](https://github.com/ThiagoLaass/CNH-Manager)
+  - 🛂 A management system designed to streamline the process of obtaining a driver's license.
 ---
 ### 🚀 About Me
 - 💡 **Passionate Learner:** Always excited to explore new tools, frameworks, and languages.
